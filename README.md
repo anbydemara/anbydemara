@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=anbydemara&show_icons=true&theme=transparent)
-![Visitor Count](https://profile-counter.glitch.me/anbydemara/count.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anbydemara&layout=compact&theme=tokyonight)
+
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=anbydemara&theme=dracula)
