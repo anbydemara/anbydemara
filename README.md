@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 ![](https://raw.githubusercontent.com/anbydemara/anbydemara/output/github-contribution-grid-snake.svg)
 
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=anbydemara&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anbydemara&layout=compact&theme=tokyonight)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=anbydemara&theme=dracula)
+-->
