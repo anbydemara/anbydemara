@@ -20,6 +20,17 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/anbydemara/anbydemara/output/github-contribution-grid-snake.svg" />
 </picture>
 
+## About my interest languege :fire:
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbydemara&layout=compact&theme=tokyonight" alt="Top Langs" align="left">
+  <div>
+    My most commonly used languages: <br />
+    :one: Java <br />
+    :two: Javascript <br />
+    :three: Python <br />
+  </div>
+</div>
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=anbydemara&show_icons=true&theme=transparent)
 
